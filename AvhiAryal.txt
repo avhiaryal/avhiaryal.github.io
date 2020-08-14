@@ -1,16 +1,21 @@
 <span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd AvhiAryal/About_Me
 <span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat AvhiAryal_Info<br/><br/>
-Believe me or not"<span id="k">Online Security and Privacy is MYTH</span>".
+Believe me or not "<span id="k">Online Security and Privacy is MYTH</span>".
 
-Hey Viewer! This is my github hosted website. A kind of  portflio website in the skin of a terminal.
+Hey Viewer! This is my github hosted website. A kind of portflio website in the skin of a terminal.
 <p>I am a Computer Science student, CyberSecurity Enthusiast and Digital Content Creator.</p>
 <p>I also make youtube videos about computers, tutorials, tips and trick involving online security.</p>
+<p>I have worked on few web development projects. I have done multiple internships in both webdevelopment and Cybersecurity field.</p>
+<p>You can find my professional portfolio here <a href="https://www.aryaldeepak.com.np">Portfolio</a>. <br><br><br>
+<p>Here are some of my profiles you on Internet: <br> 
+<a href="">Facebook</a> <br> 
+<a href="link2">Instagram</a>< br> 
+<a href="link3">Github</a>.</p>
+<a href="link3">Twitter</a>.</p>
+<a href="link3">Youtube/a>.</p>
+<a href="link3">Blogs</a>.</p>
 
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-Feel free to send me an email at<a href="mailto:avhiaryal54@gmail.com">Email</a>.
+Feel free to send me an email at <a href="mailto:avhiaryal54@gmail.com">Email</a>.
 
 <p>Have a good DAY!!!</p>
 <span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span>exit
