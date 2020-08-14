@@ -8,12 +8,13 @@ Hey Viewer! This is my github hosted website. A kind of portflio website in the 
 <p>I have worked on few web development projects. I have done multiple internships in both webdevelopment and Cybersecurity field.</p>
 <p>You can find my professional portfolio here <a href="https://www.aryaldeepak.com.np">Portfolio</a>. <br><br><br>
 <p>Here are some of my profiles you on Internet: <br> 
-<a href="">Facebook</a> <br> 
-<a href="link2">Instagram</a>< br> 
-<a href="link3">Github</a>.</p>
-<a href="link3">Twitter</a>.</p>
-<a href="link3">Youtube/a>.</p>
-<a href="link3">Blogs</a>.</p>
+<a href="https://www.facebook.com/avhiaryal54">Facebook</a> <br> 
+<a href="https://www.instagram.com/_avhi.aryal_/">Instagram</a>< br> 
+<a href="https://github.com/avhiaryal">Github</a>.</p>
+<a href="https://twitter.com/AvhiAryal">Twitter</a>.</p>
+<a href="https://www.youtube.com/channel/UCSgh9VWT4QMtFQsXgx02cUg?view_as=subscriber">Youtube/a>.</p>
+<a href="https://avhiaryal54.wordpress.com/">Blogs</a>.</p>
+<a href="https://www.linkedin.com/in/avhiaryal/">Linkedin</a>.</p>
 
 Feel free to send me an email at <a href="mailto:avhiaryal54@gmail.com">Email</a>.
 
