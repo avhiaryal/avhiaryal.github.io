@@ -1,4 +1,6 @@
 <span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd AvhiAryal/About_Me
+<span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat AvhiAryal/Official_Name
+DEEPAK ARYAL
 <span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat AvhiAryal_Info<br/><br/>
 Believe me or not "<span id="k">Online Security and Privacy is MYTH</span>".
 
@@ -21,4 +23,4 @@ Feel free to send me an  <a href="mailto:avhiaryal54@gmail.com">Email</a>.
 
 <p>Have a good DAY!!!</p>
 
-<span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span>exit
