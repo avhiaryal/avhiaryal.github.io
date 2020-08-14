@@ -13,7 +13,7 @@ Hey Viewer! This is my github hosted website. A kind of portflio website in the 
 <a href="https://www.instagram.com/_avhi.aryal_/">Instagram</a><br> 
 <a href="https://github.com/avhiaryal">Github</a>.</p>
 <a href="https://twitter.com/AvhiAryal">Twitter</a>.</p>
-<a href="https://www.youtube.com/channel/UCSgh9VWT4QMtFQsXgx02cUg?view_as=subscriber">Youtube/a>.</p>
+<a href="https://www.youtube.com/channel/UCSgh9VWT4QMtFQsXgx02cUg?view_as=subscriber">Youtube</a>.</p>
 <a href="https://avhiaryal54.wordpress.com/">Blogs</a>.</p>
 <a href="https://www.linkedin.com/in/avhiaryal/">Linkedin</a>.</p>
 
@@ -21,4 +21,4 @@ Feel free to send me an  <a href="mailto:avhiaryal54@gmail.com">Email</a>.
 
 <p>Have a good DAY!!!</p>
 
-<span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span>exit
+<span id="a">avhi@portfolio</span>:<span id="b">~</span><span id="c">$</span> exit
